@@ -2,4 +2,6 @@ keras
 keras-tqdm
 pyarrow
 fastparquet
+pygeoip
+geoip2
 
